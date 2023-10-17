@@ -1,0 +1,52 @@
+.h1{
+text-align: center;
+}
+.main1{
+border: 20px solid black ;
+}
+.article{
+justify-content: center;
+align-items: center ;
+border: 10px solid red ;
+}
+.h21{
+text-align: center;
+}
+.p1{
+
+}
+.p2{
+
+}
+.p21{
+
+}
+.article2{
+    border: 10px solid aqua ;
+    justify-content: center;
+    align-items: center ;
+}
+.h23{
+text-align: center;
+}
+.p3{
+
+}
+.section1{
+border: 10px solid blue ;
+}
+.h31{
+text-align: center;
+}
+.footer{
+border: 10px solid green ;
+
+}
+.nav2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    text-align: center;
+}
